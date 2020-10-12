@@ -1,0 +1,8 @@
+About Save files
+
+The save files in this game are advanced. Every zombie you do damage to, every plant you place, every plant that takes damage, every coin collected, every lawn mower
+lost, every gem collected, every ad watched, every purchase made, every upgrade done, every level finished, every plant chosen, will be put into a new safe file
+Save files are between 5 kilobytes and 20 kilobytes each, and you are given storage for them
+
+If you want to move the game to your next device, and the backup is not working, just select your save file folder, and you can choose ANY point to play from. You cannot
+delete save files while the game is running

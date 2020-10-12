@@ -1,0 +1,83 @@
+Save file storage plans
+
+You can save your files on your internal storage for free, but you have to choose the limit. If you go over the limit, the game will stop functioning. Make sure you always
+have enough space!
+
+Plans (offline)
+
+500 MB 
+600 MB
+700 MB
+800 MB
+900 MB
+1000 MB (1.0 GB)
+1200 MB (1.2 GB)
+1400 MB (1.4 GB)
+1600 MB (1.6 GB)
+1800 MB (1.8 GB)
+2000 MB (2.0 GB)
+2500 MB (2.5 GB)
+3000 MB (3.0 GB)
+3500 MB (3.5 GB)
+4000 MB (4.0 GB)
+5000 MB (6.0 GB)
+7000 MB (7.0 GB)
+8000 MB (8.0 GB)
+9000 MB (9.0 GB)
+10000 MB (10.0 GB)
+11000 MB (11.0 GB)
+12000 MB (12.0 GB)
+13000 MB (13.0 GB) 
+14000 MB (14.0 GB)
+15000 MB (15.0 GB)
+16000 MB (16.0 GB)
+18000 MB (18.0 GB)
+20000 MB (20.0 GB)
+22000 MB (22.0 GB)
+25000 MB (25.0 GB)
+30000 MB (30.0 GB)
+35000 MB (35.0 GB)
+40000 MB (40.0 GB)
+45000 MB (45.0 GB)
+50000 MB (50.0 GB
+
+Plans (online)
+
+Online storage space is a one time purchase. There is no annual subscription required. Upgrading cost is the cost of the original plan + the cost of the new plan
+
+500 MB $0.01
+600 MB $0.02
+700 MB $0.03
+800 MB $0.04
+900 MB $0.05
+1000 MB (1.0 GB) $0.06
+1200 MB (1.2 GB) $0.08 
+1400 MB (1.4 GB) $0.10 
+1600 MB (1.6 GB) $0.12
+1800 MB (1.8 GB) $0.14 
+2000 MB (2.0 GB) $0.20
+2500 MB (2.5 GB) $0.25
+3000 MB (3.0 GB) $0.30
+3500 MB (3.5 GB) $0.35
+4000 MB (4.0 GB) $0.40
+5000 MB (6.0 GB) $0.50
+7000 MB (7.0 GB) $0.70
+8000 MB (8.0 GB) $0.80
+9000 MB (9.0 GB) $0.90
+10000 MB (10.0 GB) $1.00
+11000 MB (11.0 GB) $1.10
+12000 MB (12.0 GB) $1.20
+13000 MB (13.0 GB) $1.30 
+14000 MB (14.0 GB) $1.40
+15000 MB (15.0 GB) $1.50
+16000 MB (16.0 GB) $1.60
+18000 MB (18.0 GB) $1.80
+20000 MB (20.0 GB) $2.00
+22000 MB (22.0 GB) $2.20
+25000 MB (25.0 GB) $2.50
+30000 MB (30.0 GB) $3.00
+35000 MB (35.0 GB) $3.50
+40000 MB (40.0 GB) $4.00
+45000 MB (45.0 GB) $4.50
+50000 MB (50.0 GB) $5.00
+
