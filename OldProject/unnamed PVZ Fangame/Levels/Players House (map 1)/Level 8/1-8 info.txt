@@ -1,0 +1,24 @@
+1-8 Info
+
+Waves: 2
+Starting sun: 0
+Available plants: wallnut bowling
+Zombie count: listed
+Zombie method: kill the current zombies then the next one comes
+Wave 1 zombie count: listed
+Wave 2 zombie count: listed
+Zombie level: 1
+Zombie type: Basic + Conehead + Buckethead + minion
+Lane count: 5
+x = basic
+c = conehead
+b = buckethead
+m = minion
+Zombie Pattern:
+                   1                2             
+Lane 1: x    cx x xmmmm  x xc xccx  mmmbmmm
+Lane 2:  x  cxx x xmmmmbcxxc bx bx  mbmmmbm
+Lane 3:  xxxxcxbxbxmmmmbcxxx xx cxxxmmmbmmm
+Lane 4:   xc  x x xmmmmbcxx x x bxx mbmmmbm
+Lane 5:   x   x x xmmmm   xx x x  x mmmbmmm
+Level reward: Unlock cherry bomb

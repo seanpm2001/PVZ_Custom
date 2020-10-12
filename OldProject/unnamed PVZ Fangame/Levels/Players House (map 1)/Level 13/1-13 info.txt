@@ -1,0 +1,27 @@
+1-13 Info
+
+Waves: 2
+Starting sun: 200
+Level type: Don't let the zombies trample the flowers, flowers are in 2nd row to the lawnmowers
+Available plants: Peashooter, sunflower, wallnut, potato mine, cherry bomb, ice peashooter, repeater
+Zombie count: listed
+Zombie method: do 30 damage, then the next one comes
+Wave 1 zombie count: listed
+Wave 2 zombie count: listed
+Zombie level: 1
+Zombie type: Basic + Conehead + buckethead
+Lane count: 5
+x = basic
+c = conehead
+b = buckethead
+f = flag
+s = sport
+m = minion
+Zombie Pattern:
+                          1                            2                          
+Lane 1:    x   x      c   fmxxmc  x    x  x x mb     xxfmmmmb
+Lane 2:   xxx xxx xx c x xfmxxmbxxxxx x x x xxxxxx  xx fmmmmb
+Lane 3: fxxxxxx xxxcxx xb fmxxmbxx x xxx x x xcbxx     fmmmmb
+Lane 4:   xxx xxx xx cxx xfmxxmbxxxx    x  x x x  xx   fmmmmb
+Lane 5:    x   x      c   fmxxmc  x    x x  x x   x    fmmmmb
+Level reward: Coin Magnet

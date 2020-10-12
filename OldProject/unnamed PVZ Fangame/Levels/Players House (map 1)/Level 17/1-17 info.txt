@@ -1,0 +1,41 @@
+1-17 Info
+
+Waves: 2
+Starting sun: 0
+Starting plant food: 3
+Starting powerups: 50 (this level only)
+Level type: defense
+Available plants: given garden
+Your garden:
+p = peashooter
+w = wallnut
+i = ice peashooter
+m = potato mine
+r = repeater
+Lane 1:rrpipwmm
+Lane 2:rrpipwmm
+Lane 3:rrpipwmm
+Lane 4:rrpipwmm
+Lane 5:rrpipwmm
+Zombie count: listed
+Zombie method: kill the current zombies then the next one comes
+Wave 1 zombie count: listed
+Wave 2 zombie count: listed
+Wave 3 zombie count: listed
+Zombie level: 1
+Zombie type: Basic + Flag + Minion + Football + conehead + buckethead
+Lane count: 5
+x = basic
+c = conehead
+b = buckethead
+m = minion
+s = football
+f = flag
+Zombie Pattern:
+                   1                2             
+Lane 1: s s s  ssbbfsssssmmssmmmmsssfsbcssmmm
+Lane 2: smsmsmmssbbfsssssmmmmmmmmsssfsbcssmmm
+Lane 3: smsmsmmssbbfsssssmmmmmmmmsssfsbcssmmm
+Lane 4: smsmsmmssbbfsssssmmmmmmmmsssfsbcssmmm
+Lane 5: s s s  ssbbfsssssmmssmmmmsssfsbcssmmm
+Level reward: Torchwood

@@ -1,0 +1,27 @@
+1-14 Info
+
+Waves: 2
+Starting sun: 0
+Available plants: peashooter, ice peashooter, wallnut, potato mine, coin magnet, repeater, cherry bomb (defense level) column like you see-em
+Zombie count: listed
+Zombie method: kill the current zombies then the next one comes
+Wave 1 zombie count: listed
+Wave 2 zombie count: listed
+Wave 3 zombie count: listed
+Zombie level: 1
+Zombie type: Basic + Flag + Minion + Football + conehead + buckethead
+Lane count: 5
+x = basic
+c = conehead
+b = buckethead
+m = minion
+s = football
+f = flag
+Zombie Pattern:
+                   1                2             
+Lane 1: xxxxmmx m ccfbccmmmsmm   x  fsssssf
+Lane 2: xxxxmmxmmmccfbccmmm mmxxxxxxfmmmmmf
+Lane 3: xxxxmmxm mccfbccmmmsmmxxxxxxfxxxxxf
+Lane 4: xxxxmmxmmmccfbccmmm mmxxxxxxfcccccf
+Lane 5: xxxxmmx m ccfbccmmmsmm   x  fbbbbbf
+Level reward: Coin bag

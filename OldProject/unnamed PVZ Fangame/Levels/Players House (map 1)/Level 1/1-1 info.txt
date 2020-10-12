@@ -1,0 +1,14 @@
+1-1 Info
+
+Waves: 1
+Starting sun: 200
+Available plants: Peashooter
+Zombie count: 10
+Zombie method: kill one, then the next one comes
+Wave 1 zombie count: 2
+Zombie level: 1
+Zombie type: Basic
+Lane count: 1
+Zombie Pattern:
+Lane 1: xxxxxxxxxx
+Level reward: Unlock sunflower/Coin bag

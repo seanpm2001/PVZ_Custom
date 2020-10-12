@@ -1,0 +1,27 @@
+1-16 Info
+
+Waves: 2
+Starting sun: 4000
+Level type: Plan your defense, don't let the zombies trample the flowers
+Available plants: Peashooter, sunflower, wallnut, potato mine, cherry bomb, ice peashooter, repeater
+Zombie count: listed
+Zombie method: do 30 damage, then the next one comes
+Wave 1 zombie count: listed
+Wave 2 zombie count: listed
+Zombie level: 1
+Zombie type: Basic + Conehead + buckethead
+Lane count: 5
+x = basic
+c = conehead
+b = buckethead
+f = flag
+s = sport
+m = minion
+Zombie Pattern:
+                      1                        2                          
+Lane 1: x x   x x   xmf mmmmmx    x   x     s  fbbbmms
+Lane 2: x x   x x   ccfsmmmmmxx xxxmmmxxxxxxxb fcccmmm
+Lane 3:  x xxx x xxxbbfsmmmmmxxxxxxmmmxxxxxxxbxfbbbmms
+Lane 4: x x   x x   ccfsmmmmmxx xxxmmmxxxxxxxb fcccmmm
+Lane 5: x x   x x   xmf mmmmmx    x   x    c   fbbbmms
+Level reward: Unlock powerups

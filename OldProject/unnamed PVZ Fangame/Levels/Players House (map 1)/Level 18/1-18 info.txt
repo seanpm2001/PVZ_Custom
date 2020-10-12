@@ -1,0 +1,27 @@
+1-18 Info
+
+Waves: 2
+Starting sun: 200
+Level type: survive with the plants given
+Available plants: Peashooter, sunflower, torchwood, repeater, ice peashooter
+Zombie count: listed
+Zombie method: do 30 damage, then the next one comes
+Wave 1 zombie count: listed
+Wave 2 zombie count: listed
+Zombie level: 1
+Zombie type: Basic + Conehead + buckethead
+Lane count: 5
+x = basic
+c = conehead
+b = buckethead
+f = flag
+s = sport
+m = minion
+Zombie Pattern:
+                       1                        2                          
+Lane 1:    x     xxx   fmmccxx  xxbmxxbb      f fbbbbb
+Lane 2:   x x   xx  xx fmmccx xx xb xxbbmmmm s xfbbbbb
+Lane 3:  x   x xx  xx  fmmccx xx xcbxxbbmmmmms xfbbbbb
+Lane 4: x     xxx   xx fmmccx xx xb xxbbmmmm s xfbbbbb
+Lane 5: x     xxx   xxxfmmccxx  xxbmxxbb      f fbbbbb
+Level reward: Coins

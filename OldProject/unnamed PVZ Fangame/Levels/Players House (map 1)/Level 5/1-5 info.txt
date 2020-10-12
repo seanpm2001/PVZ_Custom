@@ -1,0 +1,20 @@
+1-5 Info
+
+Waves: 1
+Starting sun: 200
+Available plants: Peashooter, sunflower, wallnut
+Zombie count: 32
+Zombie method: do 20 damage, then the next one comes
+Wave 1 zombie count: 10
+Zombie level: 1
+Zombie type: Basic + Conehead
+Lane count: 5
+x = basic
+c = conehead
+Zombie Pattern:
+Lane 1: x      xc   cc
+Lane 2:  x     x xxxcc
+Lane 3:  c x  c   cxcc
+Lane 4:   xxc c   c cc
+Lane 5:     cxx   c cc
+Level reward: Unlock shovel

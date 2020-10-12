@@ -1,0 +1,22 @@
+1-6 Info
+
+Waves: 2
+Starting sun: 200
+Available plants: Peashooter, sunflower, wallnut
+Zombie count: 66
+Zombie method: do 25 damage, then the next one comes
+Wave 1 zombie count: 10
+Wave 2 zombie count: 12
+Zombie level: 1
+Zombie type: Basic + Conehead
+Lane count: 5
+x = basic
+c = conehead
+Zombie Pattern:
+                1             2
+Lane 1: x x x x xx   x  x xx  cc
+Lane 2: x c x x xxx c  x x x xccx
+Lane 3: x c  xx cc c  x x  xx cc
+Lane 4:  x c cx xxx c  x x x xccx
+Lane 5:  x x c cxx   x  x     cc
+Level reward: Unlock Potato Mine

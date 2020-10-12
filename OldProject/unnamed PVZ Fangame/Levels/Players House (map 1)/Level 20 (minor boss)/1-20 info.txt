@@ -1,0 +1,29 @@
+1-20 Info
+
+Waves: 2
+Starting sun: 0
+Level type: Survive a mass attack in your yard, with lawnmowers
+Available plants: random order of all plants, maximum speed conveyor belt, stackable seed packs (except coin magnet, and sunflower)
+Zombie count: listed
+Zombie method: kill the current zombies then the next one comes
+Wave 1 zombie count: listed
+Wave 2 zombie count: listed
+Wave 3 zombie count: listed
+Zombie level: 1
+Zombie type: Basic + Flag + Minion + Football + conehead + buckethead + gargantur
+Lane count: 5
+x = basic
+c = conehead
+b = buckethead
+m = minion
+s = football
+f = flag
+g = gargantur
+Zombie Pattern:
+                            1                2             
+Lane 1: bccvmmmmmmxxxxbccbbvfmmssbbbvbbcccxxxmmmxxcbbbbsfxxxmmmmmbbbccxxvvbbffmm
+Lane 2: bccvmmmmmmxxxxbccbbvfmmssbbbvbbcccxxxmmmxxcbbbbsfxxxmmmmmbbbccvvggbbffmm
+Lane 3: bccvvmmmcbxxxxbccbbvfmmssbbbvbbcccxxxmmmxxcbbbbsfxxxmmmmmbbbccvvggbbffmmm
+Lane 4: bccvmmmmmmxxxxbccbbvfmmssbbbvbbcccxxxmmmxxcbbbbsfxxxmmmmmbbbccvvvvbbffmm
+Lane 5: bccvmmmmmmxxxxbccbbvfmmssbbbvbbcccxxxmmmxxcbbbbsfxxxmmmmmbbbccvvbbbbffmm
+Level reward: Time Machine + 1 world key

@@ -1,0 +1,27 @@
+1-12 Info
+
+Waves: 4
+Starting sun: 200
+Level type: Produce 2000 sun
+Available plants: Peashooter, sunflower, wallnut, potato mine, cherry bomb, ice peashooter
+Zombie count: listed
+Zombie method: do 30 damage, then the next one comes
+Wave 1 zombie count: listed
+Wave 2 zombie count: listed
+Zombie level: 1
+Zombie type: Basic + Conehead + buckethead
+Lane count: 5
+x = basic
+c = conehead
+b = buckethead
+f = flag
+s = sport
+m = minion
+Zombie Pattern:
+                          1                            2                           3                           4
+Lane 1: mm      mm      mmfxxxx      xx      xx      xxfccc      cc      cc      ccfbcb      cb      cb      cbfbbbss
+Lane 2: mmmm  mmmmmm  mmmmfxxxxxx  xxxxxx  xxxxxx  xxxxfccccc  cccccc  cccccc  ccccfbcbcb  cbcbcb  cbcbcb  cbcbfbbbbbs
+Lane 3: mmmmmmmmmmmmmmmmmmfxxxxxxxxxxxxxxxxxxxxxxxxxxxxfcccccccccccccccccccccccccccfbcbcbcbcbcbcbcbcbcbcbcbcbcbfbbbbbs
+Lane 4: mmmm  mmmmmm  mmmmfxxxxxx  xxxxxx  xxxxxx  xxxxfccccc  cccccc  cccccc  ccccfbcbcb  cbcbcb  cbcbcb  cbcbfbbbbbs
+Lane 5: mm      mm      mmfxxxx      xx      xx      xxfccc      cc      cc      ccfbcb      cb      cb      cbfbbbss
+Level reward: Coin bag

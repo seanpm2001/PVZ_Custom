@@ -1,0 +1,36 @@
+1-19 Info
+
+Waves: 2
+Starting sun: 200
+Level type: survive and protect the endangered plants
+Available plants: all
+Zombie count: listed
+Zombie method: do 30 damage, then the next one comes
+Wave 1 zombie count: listed
+Wave 2 zombie count: listed
+Zombie level: 1
+Zombie type: Basic + Conehead + buckethead
+Lane count: 5
+plant layout
+w = wallnut
+. = blank
+Lane 1:.....w
+Lane 2:.....w
+Lane 3:.....w
+Lane 4:.....w
+Lane 5:.....w
+x = basic
+c = conehead
+b = buckethead
+f = flag
+s = sport
+m = minion
+v = pole vaulter
+Zombie Pattern:
+                       1                        2                          
+Lane 1: x    xxxx   v  fvvvvmm     xxxx  bbxx   fscbmvx
+Lane 2: x    xxxx   v  fvvvvmm    xx   xxxx cc  fscbmvx
+Lane 3: xxxxxxxxxvxxv  fvvvvmmxx xx   xxxx   x xfscbmvx
+Lane 4: xxxxx     xxv xfvvvvmmxxx   xxx xx  xxx fscbmvx
+Lane 5: xxxxx       xvxfvvvvmm  xxxx    xxx  xx fscbmvx
+Level reward: Note

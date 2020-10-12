@@ -1,0 +1,23 @@
+1-7 Info
+
+Waves: 2
+Starting sun: 200
+Available plants: Peashooter, sunflower, wallnut, potato mine
+Zombie count: listed
+Zombie method: do 25 damage, then the next one comes
+Wave 1 zombie count: listed
+Wave 2 zombie count: listed
+Zombie level: 1
+Zombie type: Basic + Conehead + buckethead
+Lane count: 5
+x = basic
+c = conehead
+b = buckethead
+Zombie Pattern:
+                      1           2           
+Lane 1: x   x   x     ccb      b  bcx
+Lane 2:  x x x x x   xcb  xxx  x  bcx
+Lane 3:  x x x x xc bxccbxxxxxxbxxbcx
+Lane 4:  x x x x xcc xcb  xxxxcc  bcx
+Lane 5:   x   x   cc  ccb   x  x  bcx
+Level reward: Unlock zen garden

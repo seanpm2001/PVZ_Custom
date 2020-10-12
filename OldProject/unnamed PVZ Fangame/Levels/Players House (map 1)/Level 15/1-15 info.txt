@@ -1,0 +1,27 @@
+1-15 Info
+
+Waves: 2
+Starting sun: 300
+Level type: Don't plant on daves mold colonies
+Available plants: Peashooter, sunflower, wallnut, potato mine, cherry bomb, ice peashooter, repeater
+Zombie count: listed
+Zombie method: do 30 damage, then the next one comes
+Wave 1 zombie count: listed
+Wave 2 zombie count: listed
+Zombie level: 1
+Zombie type: Basic + Conehead + buckethead
+Lane count: 5
+x = basic
+c = conehead
+b = buckethead
+f = flag
+s = sport
+m = minion
+Zombie Pattern:
+                             1                        2                          
+Lane 1: x   x  xx  x   x x   fmmcxxx    x    m       xfbbb
+Lane 2:  x x  xxxx  x x  x   fmmcx xx  cxx   smmx   x fbbb
+Lane 3:   x   xxxx   x   x  f mmcx    xx xx  xxx    x fbbb
+Lane 4:  x x  xxxx  x x  x   fmmcxx  bx   xxbxxxmmccxsfbbb
+Lane 5: x   x  xx  x   x xxxxfmmcxxxxb    xxbcccxxxxxmfbbb
+Level reward: Unlock plant food

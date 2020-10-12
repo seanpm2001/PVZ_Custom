@@ -1,0 +1,27 @@
+1-10 Info
+
+Waves: 2
+Starting sun: 8000
+Available plants: all (defense level)
+Zombie count: listed
+Zombie method: kill the current zombies then the next one comes
+Wave 1 zombie count: listed
+Wave 2 zombie count: listed
+Wave 3 zombie count: listed
+Zombie level: 1
+Zombie type: Basic + Flag + Minion + Football
+Lane count: 5
+x = basic
+c = conehead
+b = buckethead
+m = minion
+s = football
+f = flag
+Zombie Pattern:
+                   1                2             
+Lane 1: m mmmm fx ffsmmsfff m  s   sfsss
+Lane 2: mfmmmmxfx ffsmmsfffm m fx  ffsss
+Lane 3: mfmmm xfxxffsmmsfff m  xx  sfsss
+Lane 4: mfmmmmxfx ffsmmsfffm mmxmmmxfsss
+Lane 5: m mmmm fx ffsmmsfffm  m    sfsss
+Level reward: Unlock almanac
