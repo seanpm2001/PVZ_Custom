@@ -1,0 +1,30 @@
+1-23 Info
+
+Waves: 4
+Starting sun: 200
+Level type: survive with the plants given, don't lose more than 35 plants
+Available plants: Sunflower, repeater, peashooter, ice peashooter, cherry bomb, torchwood, wallnut
+Zombie count: listed
+Zombie method: do 30 damage, then the next one comes
+Wave 1 zombie count: listed
+Wave 2 zombie count: listed
+Zombie level: 2
+Zombie type: Basic + Conehead + buckethead
+Lane count: 5
+x = basic
+c = conehead
+b = buckethead
+f = flag
+s = sport
+m = minion
+v = pole vaulter
+g = gargantur
+u = bungee zombie
+Zombie Pattern:
+                                                      1                                                                          2                                             3                                       4                  
+Lane 1: x   xc    x  xx      bvc x x x x x x x x x xvbfxxxxxxxxxxxxxxxf           um                x x x x x x x x x x x x x x xffccccccbb   m m m m m x x x x c c c c c c c cfffsssmmmmmxx      xxmmbbb b b b b b b bffffgsssssuuuvvvxxbmxffffm
+Lane 2: x   xcc xx x sxx     bbvc x x x x x x x x x vbfxxxxxxxxxxxxxxxfbcbcbcbcbvuxmmx x x x x x x x x x x x x x x x x x x x x x ffccccccbbm m m m m m m x x x x c c c c c c c fffsssmmmmmxxxx  xxxxmmbb b b b b b b b ffffgsssssuuuvvvxcbmxffffmm
+Lane 3:  x x  ccbmsx mxxx    bbcvx x x x x x x x x xvbfxxxxxxxxxxxxxxxfbcbcbcbcbvuxmmxx x x x x x x x x x x x x x x x x x x x x xffccccccbbmm m m m m m x x x x c c c c c c c cfffsssmmmmmxxxxxxxxxxmmbbb b b b b b b bffffgsssssuuuvvvxxbmxffffmmm
+Lane 4:  x x   ccbx xuxxxxxxxubcvxx x x x x x x x x vbfxxxxxxxxxxxxxxxfbcbcbcbcbvuxmmx x x x x x x x x x x x x x x x x x x x x x ffccccccbbm m m m m m m x x x x c c c c c c c fffsssmmmmmxxxx  xxxxmmbb b b b b b b b ffffgsssssuuuvvvxcbmxffffmm
+Lane 5:   u     ccbxux xxxxxxuc vx x x x x x x x x xvbfxxxxxxxxxxxxxxxf           um                x x x x x x x x x x x x x x xffccccccbb   m m m m m x x x x c c c c c c c cfffsssmmmmmxx      xxmmbbb b b b b b b bffffgsssssuuuvvvxxbmxffffm
+Level reward: umbrella leaf 

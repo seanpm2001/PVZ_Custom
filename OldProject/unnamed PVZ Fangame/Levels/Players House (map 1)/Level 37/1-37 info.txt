@@ -1,0 +1,46 @@
+1-37 info
+
+Waves: 1
+Starting sun: 
+Level type: Survive conveyor fog
+Available plants: 
+cherry bomb
+torchwood
+peashooter
+blover
+Map
+t = tombstone
+. = blank
+Lane 1: tttttttttttt
+Lane 2: tttttttttttt
+Lane 3: .ttttttttttt
+Lane 4: tttttttttttt
+Lane 5: tttttttttttt
+Zombie count: listed
+Zombie method: new zombie after 30 damage 
+Wave 1 zombie count: listed
+Wave 2 zombie count: listed
+Zombie level: 3 
+Zombie type: Basic + Conehead + buckethead
+Lane count: 5
+x = basic
+c = conehead
+b = buckethead
+f = flag
+s = sport
+m = minion
+v = pole vaulter
+g = gargantur
+u = bungee zombie
+d = screen door
+a = balloon zombie
+n = sunday zombie
+j = jack-in-the-box zombie
+Zombie Pattern:
+                                    1                            
+Lane 1: ccccccccccccccccccccccccccccfbbbbbbbbbbbbbbb
+Lane 2: ccccccccccccccccccccccccccccfbbbbbbbbbbbbbbb
+Lane 3: ccccccccccccccccccccccccccccfbbbbbbbbbbbbbbb
+Lane 4: ccccccccccccccccccccccccccccfbbbbbbbbbbbbbbb
+Lane 5: ccccccccccccccccccccccccccccfbbbbbbbbbbbbbbb
+Level reward: Squash

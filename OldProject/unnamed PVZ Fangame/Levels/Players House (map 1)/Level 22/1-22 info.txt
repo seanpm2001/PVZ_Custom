@@ -1,0 +1,29 @@
+1-22 Info
+
+Waves: 2
+Starting sun: 200
+Level type: survive with the plants given, produce at least 2500 sun
+Available plants: Sunflower, twin sunflower, peashooter, wallnut, potato mine, ice peashooter
+Zombie count: listed
+Zombie method: do 30 damage, then the next one comes
+Wave 1 zombie count: listed
+Wave 2 zombie count: listed
+Zombie level: 2
+Zombie type: Basic + Conehead + buckethead
+Lane count: 5
+x = basic
+c = conehead
+b = buckethead
+f = flag
+s = sport
+m = minion
+v = pole vaulter
+g = gargantur
+Zombie Pattern:
+                           1                              2                          
+Lane 1: x    x ccx   x    xfbcbbcbf m m   smv  x  cv  x vsfxxxxxxxxxcccccbbsmmfm
+Lane 2:  x  x  cccc x  m x fbcbbcbf m m   xb c x  xvm xxvsfxxxxxxxxxcccccbbsmmfmm
+Lane 3:   xx  xccx  x c x  fbcbbcbfmmmmm   c  c x bvmx  vsfxxxxxxxxxcccccbbsmmfmmm
+Lane 4:   xx   cc  x x  x  fbcbbcbfm m mmmx vb x  bvvx  vsfxxxxxxxxxcccccbbsmmfmm
+Lane 5:   xx   cccc x b  x fbcbbcbfm m mmmx  b   xbv    vsfxxxxxxxxxcccccbbsmmfm
+Level reward: Minigame: life in the apocalypse

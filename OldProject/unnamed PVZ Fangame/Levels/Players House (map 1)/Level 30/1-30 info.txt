@@ -1,0 +1,39 @@
+1-30 info
+
+Waves: 2
+Starting sun: 200
+Level type: defeat 30 zombies in 60 seconds
+Available plants: all
+. = blank
+t = tombstone
+Layout:
+Lane 1:......t.t
+Lane 2:......t.t
+Lane 3:......t.t
+Lane 4:......t.t
+Lane 5:......t.t
+Zombie count: listed
+Zombie method: new zombie after 30 damage 
+Wave 1 zombie count: listed
+Wave 2 zombie count: listed
+Zombie level: 3 
+Zombie type: Basic + Conehead + buckethead
+Lane count: 5
+x = basic
+c = conehead
+b = buckethead
+f = flag
+s = sport
+m = minion
+v = pole vaulter
+g = gargantur
+u = bungee zombie
+d = screen door
+Zombie Pattern:
+                                    1                      2           
+Lane 1: x x x x x vbm xb   x  x xx xfgbbbcccx    mxmxmxmxmbffggxxxxxxxxxxvvu
+Lane 2: xxxxxxxxxxvb mxbb x x  xx x fgbbbcccxxmmxmxmxmxmxmbffggxxxxxxxxxxvv
+Lane 3: xxxxxxxxxxvsm mbcccx x x x xfgbbbcccxxmmxmxmxmxmxmbffggxxxxxxxxxxvvu
+Lane 4: xxxxxxxxxxvb mxbb xxx   x xxfgbbbcccxxmmxmxmxmxmxmbffggxxxxxxxxxxvv
+Lane 5: x x x x x vbm xb   x  x xxxxfgbbbcccxxmxmxmxmxmxmxbffggxxxxxxxxxxvvu
+Level reward: Tallnut

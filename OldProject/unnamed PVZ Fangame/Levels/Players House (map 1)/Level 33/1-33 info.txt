@@ -1,0 +1,42 @@
+1-33 info
+
+Waves: 1
+Starting sun: 200
+Level type: survive and protect the endangered plants
+Available plants: all
+Layout:
+n = tallnut
+t = tombstone
+. = blank
+Lane 1: ...n..t
+Lane 2: ...n..t
+Lane 3: ...n..t
+Lane 4: ...n..t
+Lane 5: ...n..t
+Zombie count: listed
+Zombie method: new zombie after 30 damage 
+Wave 1 zombie count: listed
+Wave 2 zombie count: listed
+Zombie level: 3 
+Zombie type: Basic + Conehead + buckethead
+Lane count: 5
+x = basic
+c = conehead
+b = buckethead
+f = flag
+s = sport
+m = minion
+v = pole vaulter
+g = gargantur
+u = bungee zombie
+d = screen door
+a = balloon zombie
+n = sunday zombie
+Zombie Pattern:
+                                    1                            
+Lane 1: n mn  d nan    mm    s x x xfnnnggandvu
+Lane 2:  mmncd dnananxcb m nd x x x fnnnggandvu
+Lane 3: nmncd d nananxcb  nndx x x xfnnnggandvu
+Lane 4:  mmncd dnananxcb m nd x x x fnnnggandvu
+Lane 5: n mn  d nan    mm    s x x xfnnnggandvu
+Level reward: Ice-shroom

@@ -1,0 +1,30 @@
+1-24 info
+
+Waves: 4
+Starting sun: 4000
+Level type: plan your defense and beat the zombies
+Available plants: Sunflower, repeater, peashooter, ice peashooter, cherry bomb, torchwood, wallnut
+Zombie count: listed
+Zombie method: do 30 damage, then the next one comes
+Wave 1 zombie count: listed
+Wave 2 zombie count: listed
+Zombie level: 2
+Zombie type: Basic + Conehead + buckethead
+Lane count: 5
+x = basic
+c = conehead
+b = buckethead
+f = flag
+s = sport
+m = minion
+v = pole vaulter
+g = gargantur
+u = bungee zombie
+Zombie Pattern:
+                                            1                                   2                 
+Lane 1: ub buuccxxb uuu mmssss uuu bbbbbuuuufuuuuuuubbbmmm        bbb    ccc    fuuuuuuuuuuuuuuuuuuuubbb
+Lane 2: ubvbuuc    uuuuu mss   uuu   b xxuu fuuuuuuubbbmmmm    u bbbbb u cccbbxxfuuuuuuuuuuuuuuuuuuuubbbs
+Lane 3: ubvbuuccxxb uuu mmsss uuuuu  b  xu  fuuuuuuubbbmmmmmmmuuubbbbbuuucccbbxxfuuuuuuuuuuuuuuuuuuuubbbsg
+Lane 4: ubvbuuc    uuuuu mss   uuu   b  xu  fuuuuuuubbbmmmm    u bbbbb u cccbbxxfuuuuuuuuuuuuuuuuuuuubbbs
+Lane 5: ub buuccxxb uuu mmssss uuu   b  u   fuuuuuuubbbmmm        bbb    ccc    fuuuuuuuuuuuuuuuuuuuubbb
+Level reward: Cabbage Pult

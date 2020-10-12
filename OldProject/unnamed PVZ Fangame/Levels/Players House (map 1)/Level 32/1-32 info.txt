@@ -1,0 +1,32 @@
+1-31 info
+
+Waves: 2
+Starting sun: 200
+Level type: survive the zombie attack with the given plants, 
+Available plants: Icewood, Torchwood, Peashooter, Ice peashooter, Wallnut, Sunflower, Potato Mine
+Zombie count: listed
+Zombie method: new zombie after 30 damage 
+Wave 1 zombie count: listed
+Wave 2 zombie count: listed
+Zombie level: 3 
+Zombie type: Basic + Conehead + buckethead
+Lane count: 5
+x = basic
+c = conehead
+b = buckethead
+f = flag
+s = sport
+m = minion
+v = pole vaulter
+g = gargantur
+u = bungee zombie
+d = screen door
+a = balloon zombie
+Zombie Pattern:
+                                    1                       2           
+Lane 1: xfccc c   c   c cc  ccc cc cfbssvmmmgmmbb   b b b b fddggss
+Lane 2: xfccccccc cc ccc c c cc cc cfbssvmmmgmmbbb b b b b bfddggss
+Lane 3: xfcccccccc ccccc cc ccc cc  fbssvmmmgmmbbbb b b b b fddggss
+Lane 4: xfccccccc cc c cc cc ccc cc fbssvmmmgmmbbb b b b b bfddggss
+Lane 5: xfccc c   c   ccc cc c cc   fbssvmmmgmmbb    b b b bfddggss
+Level reward: Icewood

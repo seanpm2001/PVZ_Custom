@@ -1,0 +1,42 @@
+1-39 info
+Unfinished as of 6.27.2018 12:46 pm
+
+Waves: 1
+Starting sun: 
+Level type: Survive with the given plants, produce 5000 sun
+Available plants: 
+sunflower
+twin sunflower
+goldbloom
+wallnut
+potato mine
+cherry bomb
+ice peashooter
+Zombie count: listed
+Zombie method: new zombie after 30 damage 
+Wave 1 zombie count: listed
+Wave 2 zombie count: listed
+Zombie level: 3 
+Zombie type: Basic + Conehead + buckethead
+Lane count: 5
+x = basic
+c = conehead
+b = buckethead
+f = flag
+s = sport
+m = minion
+v = pole vaulter
+g = gargantur
+u = bungee zombie
+d = screen door
+a = balloon zombie
+n = sunday zombie
+j = jack-in-the-box zombie
+Zombie Pattern:
+                              1                            
+Lane 1: m xxxs
+Lane 2:  m mxxxs
+Lane 3: x xxxxxs
+Lane 4:  xbcxxxs
+Lane 5: m x xs
+Level reward: Goldbloom

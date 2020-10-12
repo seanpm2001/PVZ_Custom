@@ -1,0 +1,44 @@
+1-35 Info
+
+Waves: 2
+Starting sun: 0
+Level type: defense, fog, night
+fog type: last 6 rows
+Available plants: conveyor belt:
+Ice shroom
+Blover
+Wallnut
+Tallnut
+Ice Peashooter
+Torchwood
+Icewood
+Peashooter
+Zombie count: listed
+Zombie method: kill the current zombies then the next one comes
+Wave 1 zombie count: listed
+Wave 2 zombie count: listed
+Wave 3 zombie count: listed
+Zombie level: 1
+Zombie type: Basic + Flag + Minion + Football + conehead + buckethead
+Lane count: 5
+x = basic
+c = conehead
+b = buckethead
+m = minion
+s = football
+f = flag
+g = gargantur
+u = bungee
+v = pole vaulter
+n = sunday zombie
+d = screen door zombie
+a = balloon zombie
+j = jack-in-the-box zombie
+Zombie Pattern:
+                                 1                                            2              
+Lane 1: bbn ccccccccc  bbaajducdxfvvvaaaaaggaaannaaaaaaaaaaaaaaaaaaaaaaaaaaaaaffgggaaaaa
+Lane 2: bb ccccc ccccc bbaajdccdxfvvvaaaaaggaaannaaaaaaaaaaaaaaaaaaaaaaaaaaaaaffgggaaaaa
+Lane 3: bbncccccccccccnbbaajdvdcxfvvvaaaaaggaaannaaaaaaaaaaaaaaaaaaaaaaaaaaaaaffgggaaaaaa
+Lane 4: bb ccccc ccccc bbaajdccdxfvvvaaaaaggaaannaaaaaaaaaaaaaaaaaaaaaaaaaaaaaffgggaaaaa
+Lane 5: bbn ccccccccc  bbaajducdxfvvvaaaaaggaaannaaaaaaaaaaaaaaaaaaaaaaaaaaaaaffgggaaaaa
+Level reward: Blover 

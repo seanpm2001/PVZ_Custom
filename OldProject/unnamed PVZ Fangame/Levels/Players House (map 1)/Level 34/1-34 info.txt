@@ -1,0 +1,40 @@
+1-34 Info
+
+Waves: 2
+Starting sun: 0
+Level type: defense
+Available plants: conveyor belt:
+Ice shroom
+Doom Shroom
+Coffee Bean
+Cherry bomb
+Wallnut
+Peashooter
+Zombie count: listed
+Zombie method: kill the current zombies then the next one comes
+Wave 1 zombie count: listed
+Wave 2 zombie count: listed
+Wave 3 zombie count: listed
+Zombie level: 1
+Zombie type: Basic + Flag + Minion + Football + conehead + buckethead
+Lane count: 5
+x = basic
+c = conehead
+b = buckethead
+m = minion
+s = football
+f = flag
+g = gargantur
+u = bungee
+v = pole vaulter
+n = sunday zombie
+d = screen door zombie
+a = balloon zombie
+Zombie Pattern:
+                                 1                    2              
+Lane 1: xxxcxxxbddvvvgsssmmmxxxxxfssssssssssgggaaaadnnffgggggssssffmmmmbs
+Lane 2: xxxcxxxbddvvugsssmmmxxxxxfssssssssssgggaaaadnnffgggggssssffmmmmmbss
+Lane 3: xxxcxxxbddvvvgsssmmmxxxxxfssssssssssgggaaaadnnffgggggssssffmmmmmmbs
+Lane 4: xxxcxxxbddvvugsssmmmxxxxxfssssssssssgggaaaadnnffgggggssssffmmmmmbss
+Lane 5: xxxcxxxbddvuugsssmmmxxxxxfssssssssssgggaaaadnnffgggggssssffmmmmbs
+Level reward: Doom Shroom

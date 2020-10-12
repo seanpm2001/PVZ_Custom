@@ -1,0 +1,38 @@
+1-25 info
+
+Waves: 4
+Starting sun: 200
+Level type: normal
+Available plants: all
+. = blank
+t = tombstone
+Layout:
+Lane 1:.......tt
+Lane 2:.......tt
+Lane 3:.......tt
+Lane 4:.......tt
+Lane 5:.......tt
+Zombie count: listed
+Zombie method: new zombie every 5-15 seconds
+Wave 1 zombie count: listed
+Wave 2 zombie count: listed
+Zombie level: 3 
+Zombie type: Basic + Conehead + buckethead
+Lane count: 5
+x = basic
+c = conehead
+b = buckethead
+f = flag
+s = sport
+m = minion
+v = pole vaulter
+g = gargantur
+u = bungee zombie
+Zombie Pattern:
+                                            1                                      2                                        3                   4
+Lane 1: mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmfvvxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxffvvcccccccccccccccccccccccccccccccccccccfffvvbbbbbbbbbbbbbbbffffvvsssgu
+Lane 2: mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmfvvxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxffvvcccccccccccccccccccccccccccccccccccccfffvvbbbbbbbbbbbbbbbffffvvsssgu
+Lane 3: mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmfvvxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxffvvcccccccccccccccccccccccccccccccccccccfffvvbbbbbbbbbbbbbbbffffvvsssgu
+Lane 4: mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmfvvxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxffvvcccccccccccccccccccccccccccccccccccccfffvvbbbbbbbbbbbbbbbffffvvsssgu
+Lane 5: mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmfvvxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxffvvcccccccccccccccccccccccccccccccccccccfffvvbbbbbbbbbbbbbbbffffvvsssgu
+Level reward: Coin bag

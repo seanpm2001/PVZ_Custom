@@ -1,0 +1,39 @@
+1-38 info
+
+Waves: 1
+Starting sun: 
+Level type: Survive with the given plants
+Available plants: 
+sunflower
+squash
+squash (imitated)
+wallnut
+potato mine
+Zombie count: listed
+Zombie method: new zombie after 30 damage 
+Wave 1 zombie count: listed
+Wave 2 zombie count: listed
+Zombie level: 3 
+Zombie type: Basic + Conehead + buckethead
+Lane count: 5
+x = basic
+c = conehead
+b = buckethead
+f = flag
+s = sport
+m = minion
+v = pole vaulter
+g = gargantur
+u = bungee zombie
+d = screen door
+a = balloon zombie
+n = sunday zombie
+j = jack-in-the-box zombie
+Zombie Pattern:
+                              1                            
+Lane 1: m ss m mmc   x  x     fgb
+Lane 2: m ss mm mc  x  x  x  xfgb
+Lane 3:  b mm  mmccx  x  x  x fgb
+Lane 4: m s m m m x   x    x  fgb
+Lane 5:   ss mm    x   x      fgb
+Level reward: Level rewards: 1 coin for every 5 sun

@@ -1,0 +1,29 @@
+1-21 Info
+
+Waves: 2
+Starting sun: 200
+Level type: normal
+Available plants: all
+Zombie count: listed
+Zombie method: do 30 damage, then the next one comes
+Wave 1 zombie count: listed
+Wave 2 zombie count: listed
+Zombie level: 2
+Zombie type: Basic + Conehead + buckethead
+Lane count: 5
+x = basic
+c = conehead
+b = buckethead
+f = flag
+s = sport
+m = minion
+v = pole vaulter
+g = gargantur
+Zombie Pattern:
+                       1                        2                          
+Lane 1: mxxxxxx      xxfccbv xxx     x    ccccc fsbbccgm
+Lane 2: mx     xxxxxx  fccbvx       x x     c   fsbbcccgm
+Lane 3: mxxxxxx      xxfccbvxxxx   xxxxx    c   fsbbccccgm
+Lane 4: mx     xxxxxx  fccbvx     x     x   c   fsbbcccgm
+Lane 5: mxxxxxx      xxfccbv xxx x       x  c  xfsbbccgm
+Level reward: Twin sunflower

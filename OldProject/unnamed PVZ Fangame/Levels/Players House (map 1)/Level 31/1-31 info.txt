@@ -1,0 +1,41 @@
+1-31 info
+
+Waves: 2
+Starting sun: 200
+Level type: survive the zombie attack with the given plants, don't let the zombies trample the flowers
+Available plants: all
+. = blank
+t = tombstone
+f = flowers
+Layout:
+Lane 1:..fff...t
+Lane 2:..fff...t
+Lane 3:..fff...t
+Lane 4:..fff...t
+Lane 5:..fff...t
+Zombie count: listed
+Zombie method: new zombie after 30 damage 
+Wave 1 zombie count: listed
+Wave 2 zombie count: listed
+Zombie level: 3 
+Zombie type: Basic + Conehead + buckethead
+Lane count: 5
+x = basic
+c = conehead
+b = buckethead
+f = flag
+s = sport
+m = minion
+v = pole vaulter
+g = gargantur
+u = bungee zombie
+d = screen door
+a = balloon zombie
+Zombie Pattern:
+                                    1                      2           
+Lane 1: x xxx   xxxx vxx x   db m ccfvavbbccc  xmxd u  u b fgaavsmmm
+Lane 2: xx xxxxx xx  vcxuxx x  s c cfvavbbcccccccxmd xu b bfgaavsmm
+Lane 3: x xxx   xxxx vcx xxa d  m ccfvavbbccccccccxdu  u b fgaavsmmmm
+Lane 4: xxx   xxxx   vcxuxx x  s c  fvavbbcccccccxmd xu b bfgaavbmm
+Lane 5: xxxxx xx xx xvcx x   db m ccfvavbbccc xmxm  u  u b fgaavbmmm
+Level reward: Shovel Refund + 5%

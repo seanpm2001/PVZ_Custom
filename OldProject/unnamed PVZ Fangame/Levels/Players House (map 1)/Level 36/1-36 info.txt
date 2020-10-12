@@ -1,0 +1,34 @@
+1-36 info
+
+Waves: 1
+Starting sun: 3000
+Level type: plan your defense and beat the zombies, survive with the given plants
+Available plants: tallnut, ice peashooter, repeater, wallnut, torchwood, potato mine, cabbage-pult
+Zombie count: listed
+Zombie method: new zombie after 30 damage 
+Wave 1 zombie count: listed
+Wave 2 zombie count: listed
+Zombie level: 3 
+Zombie type: Basic + Conehead + buckethead
+Lane count: 5
+x = basic
+c = conehead
+b = buckethead
+f = flag
+s = sport
+m = minion
+v = pole vaulter
+g = gargantur
+u = bungee zombie
+d = screen door
+a = balloon zombie
+n = sunday zombie
+j = jack-in-the-box zombie
+Zombie Pattern:
+                                    1                            
+Lane 1: ancbxssvvmmmmmmmmmbbcccnaaaafggg
+Lane 2: ancbxssvvmmmmmmmmmbbcccnaaaafgg
+Lane 3: ancbxssvvmmmmmmmmmbbcccdaaaafggg
+Lane 4: ancbxssvvmmmmmmmmmbbcccnaaaafgg
+Lane 5: ancbxssvvmmmmmmmmmbbcccnaaaafggg
+Level reward: Extra seed slot
